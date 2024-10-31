@@ -1,0 +1,133 @@
+= 1.3.7 - 5 February 2021 =
+
+- Fixed: Compatibility issue with Elementor 3.1.1
+
+= 1.3.6 - 15 September 2020 =
+
+- Added: Logo title layout in Logos & Brands Widget
+
+= 1.3.5 - 8 September 2020 =
+
+- Fixed: Compatibility issue with Elementor 3.0.6
+- Fixed: Compatibility issue with WordPress 5.5.1
+
+= 1.3.4 - 27 March 2020 =
+
+- Fixed: Custom Select long value overlap issue
+- Fixed: Static link issue fixed in Image widget
+- Fixed: White Space issue in long text in many widgets
+- Fixed: Animation duration issue in all widgets
+- Added: Post Sticky markup and filter
+
+= 1.3.3 - 19 March 2020 =
+
+- Fixed: Upgrader
+
+= 1.3.2 - 19 March 2020 =
+
+- Added: Lightbox/Popup for Button widget
+- Added: Embeded video support for lightbox, ex: youtube, vimeo, dailymotion
+- Added: Hosted video support for lightbox
+- Added: Title in the Testimonial widget
+- Added: Title field & Alter tag in the Logos widget
+- Added: Data updater for new releases
+- Fixed: Empty title, name, designation spacing issue in Testimonial widget
+- Removed: Unnecessary attributes from many widgets
+- Improved: Many changed and improvement in IconBox & Counter widget
+- Improved: Removed extra JS and CSS codes
+
+= 1.3.1 - 08 March 2020 =
+
+- Added: Improved compatibility for Pro
+- Added: Settings API page to control options for future
+- Fixed: Post layout image issue fixed in Safari Browser
+- Fixed: Text color issue fixed in Safari Browse
+- Improved: Removed unnecessary commented line
+
+= 1.3.0 - 05 March 2020 =
+
+- Added: Single team box margin feature in Team widget
+- Added: Individual team color in Team widget
+- Added: Team profile extended customizations Team widget
+- Added: Cascading effect 1 to Image widget
+- Added: Divider to Counter widget
+- Added: Floating Text in Icon box widget
+- Added: Column feature in Contact Form 7
+- Fixed: Single team box padding issue in Team widget
+- Fixed: Border radius issue in Image widget
+- Fixed: Text & Icon color isue when normal color is gradient and hover color is regular one.
+- Fixed: Testimonial thumbnail border radius isue fixed
+- Improved: Huge improvment in Team widget
+- Improved: Huge improvment in Icon Box
+- Improved: Many CSS & JS codes and cleanup them
+
+= 1.2.5 - 28 February 2020 =
+
+- Improved: Styles of PostsGrid widget
+- Improved: Many CSS & JS codes and cleanup them
+- Added: Margin & Padding control to the button of PostsGrid widget
+- Added: Icon alignment and space adjustment feature in IconList widget
+- Fixed: Placeholder logo when Logo is empty
+- Fixed: Text and Icon color issue in safari browser
+- Fixed: Carousel overlap issue in safari browser
+- Fixed: Contact form 7 selector issue for error messages
+- Fixed: Carousel breakpoint issue in tablet
+
+= 1.2.0 - 29 January 2020 =
+
+- Added: Compatibility with Elementor 2.8.*
+- Added: Submit button alignment to Contact Form 7 widget
+- Added: Ajax loader customization to Contact Form 7 widget
+- Added: SVG icon color support to all widgets
+- Fixed: Posts Grid item's title linking
+- Fixed: Social links issue in Team Member widget
+- Fixed: Icon size issue in Icon List widget
+- Fixed: Alignment in Logo and Icon List widget's
+- Fixed: Icon alignment in Accordion widget
+- Fixed: Image & Background image size issue in the Posts Grid widget
+- Fixed: Radio and Checkbox label color issue in Contact Form 7 widget
+- Fixed: Lebel space issue in Contact Form 7 widget
+- Fixed: Responsive issue in Divider widget
+- Fixed: Spacing issue in Multi Heading widget
+- Fixed: Button widget classes
+- Fixed: SVG Icon transition issue
+- Increased: Required WP version from 4.7 to 5.0
+- Increased: Tested up to WP version from 5.3 to 5.3.1
+- Increased: Required PHP version from 5.4 to 5.6
+
+= 1.1.0 - 07 December 2019 =
+
+- Added: Item alignment to the Posts Grid widget
+- Added: More controls in Image widget and improved CSS
+- Added: Box shadow to carousel navs
+- Added: Custom Animation Duration in Section, Column and all widgets
+- Added: Nice Select in Contact Form 7 widget
+- Added: Color changing option for SVG icon
+- Added: Filter lists align for Pro
+- Fixed: Carousel Speed & Autoplay Speed issue
+- Fixed: Compatibility of parallax wrong BG position in responsive layouts for Pro
+- Fixed: Image custom size issue in Posts Grid widget
+- Fixed: Content color and image overlay issue in Posts Grid widget
+- Fixed: Custom CSS issue in all widgets
+- Improved: Compatibility of Button widget
+- Improved: Entrance animations
+
+= 1.0.1 - 28 November 2019 =
+
+- Added: New Widget Contact Form 7 with exclusive settings
+- Added: 16 new entrance animations
+- Added: 2 new hover animations
+- Added: 5 Special Effects into Button widget
+- Added: Custom image size in Post-Grid, Archive-Posts and Related-Posts widgets
+- Fixed: Hover animation issue in Button widget
+- Fixed: Hover animation issue in Image widget
+- Fixed: Hover animation issue in Social Icons widget
+- Fixed: Transition issue in 5 widgets
+- Fixed: Few issues in the Button widget
+- Fixed: All widget's Carousel Dot Nav visibility issue
+- Fixed: All widget's Carousel Nav icon visibility issue
+- Optimized: Removed Unnecessary files, style & script
+
+= 1.0.0 - 28 October 2019 =
+
+* Initial release
